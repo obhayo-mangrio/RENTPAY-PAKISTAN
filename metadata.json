@@ -1,0 +1,6 @@
+{
+  "name": "RentPay - Property Rental Marketplace",
+  "description": "Pakistan's dedicated property rental aggregator for homes, rooms, shops, and portions with verified Pakistani landlord profiles, direct phone/WhatsApp contacts, real-time chat, and localized search across major Pakistani cities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
